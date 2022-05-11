@@ -1,0 +1,8 @@
+config:
+  user: cyberforestsocialmidia@gmail.com
+  password: Cyber!d1scord
+  message: teste do bot ATUALIZADAO
+  servers: 
+    - name: CyberForest NFT
+      groups:
+        - Team
